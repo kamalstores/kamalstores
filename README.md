@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kamal Sharma
+- 👀 I’m interested in DSA
+- 🌱 I’m currently learning Machine Learning
+- 😄 Pronouns: he/him
