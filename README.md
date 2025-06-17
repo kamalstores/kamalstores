@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DSA (Data Structures & Algorithms)**
 - 🌱 I’m learning **Machine Learning** and **Web Development**
-- 📫 How to reach me: [kamalsharmalinkedin@gmail.com](mailto:kamalsharmalinkedin@gmail.com)
+- 📫 How to reach me: [kamalsharma5218@gmail.com](mailto:kamalsharma5218@gmail.com)
 - ⚡ Fun fact: **I think my jokes are good, but they might need debugging 😉.**
 
 ---
