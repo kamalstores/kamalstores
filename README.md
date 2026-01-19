@@ -1,123 +1,81 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kamal+Sharma;Computer+Science+Student" alt="Typing SVG" />
+</div>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamalsharma5218">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"/>
+  </a>
+  
+  <img width="12" />
 
-<h1 align="center">Hey 👋 I'm glad you're here!</h1>
+  <a href="mailto:kamalsharma5218@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"/>
+  </a>
 
-###
+  <img width="12" />
+
+  <a href="https://github.com/kamalstores">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>
+  </a>
+</p>
+
+---
 
 <table>
   <tr>
-    <td>
-      <h3>🧑‍💻 A Little About Me</h3>
-      <p>I'm Kamal Sharma from NIT Kurukshetra.</p>
+    <td width="60%" valign="center">
+      <h3>About Me</h3>
+      <p>
+        Computer Science undergraduate at <strong>NIT Kurukshetra</strong> focused on building scalable software and intelligent systems.
+      </p>
       <ul>
-        <li>🔭 Currently working on DSA and Web Development.</li>
-        <li>📚 Learning Advanced DSA and exploring Machine Learning.</li>
-        <li>⚡ In my spare time, I enjoy browsing the internet to stay updated with the latest tech and world events.</li>
+        <li><strong>Currently Learning:</strong> Agentic AI architectures and advanced Data Structures & Algorithms</li>
+        <li><strong>Development:</strong> MERN stack applications with an emphasis on clean and maintainable backend design</li>
+        <li><strong>Exploring:</strong> Multi-agent systems, LLM orchestration, and scalable backend architectures</li>
+        <li><strong>In My Free Time:</strong> Following discussions on emerging technologies and engineering practices across developer communities</li>
       </ul>
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRpenQ5ZjRzamppb2k3MjJlc2t6bHo1YWhubnI2ZWc2bG1waTFrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" width="220" alt="coding dog gif">
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" alt="coding animation"/>
     </td>
   </tr>
 </table>
 
 
 
-###
 
-<h3 align="left">💻 Languages</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
-
-###
-
-<h3 align="left">⚙️ Frameworks & Libraries</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠️ Tools & Dev Utilities</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<h3 align="left">🌐 Runtimes & Platforms</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-</div>
-
-###
-
-<h3 align="left">🗄️ Databases</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">👾 Chasing Commits – Pacman Style!</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kamalstores/kamalstores/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kamalstores/kamalstores/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kamalstores/kamalstores/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-### 🔥 My GitHub Stats:
+### What I Work With
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalstores&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalstores&layout=compact&theme=dracula" height="150" />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js&perline=5" />
+  </a>
+  <br><br>
+
+ 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&perline=5" />
+  </a>
+  <br><br>
+
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel&perline=5" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,opencv&perline=4" />
+  </a>
 </div>
 
-
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalstores.kamalstores&"  />
+  <p>Thanks for visiting!</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalstores.kamalstores&" alt="visitors" />
 </div>
-
-###
