@@ -76,6 +76,5 @@
 ---
 
 <div align="center">
-  <p>Thanks for visiting!</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kamalstores.kamalstores&" alt="visitors" />
 </div>
